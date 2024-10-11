@@ -106,13 +106,18 @@ This repository contains the code and documentation for the Neural Networks cour
     <img src="https://github.com/user-attachments/assets/175ee70c-1d5c-48bf-b0aa-fd0508b71bf8" width="250">
   </div>
 
-  ## Homework 7:
-  - Part 1: Fine-tuned the **RoBERTa** model using **Low-Rank Adaptation (LoRA)** of **large language models**.
+  ## Homework 7
+  - Part 1: Fine-tuned the **RoBERTa** model using **Low-Rank Adaptation (LoRA)** of **large language models**. \
     <small>
   *This project implements the methodology described in [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) by HEdward J. Hu and Yelong Shen.*
     <small>
 
     <img src="https://github.com/user-attachments/assets/2d6a3a4a-56ef-4956-9506-82631a9c08b8" width="400"> 
+
+  - Part 2: Implemented a CNN model for fraud detection. \
+    <small>
+  *This project implements the methodology described in [A Convolutional Neural Network Model for Credit Card Fraud Detection](https://ieeexplore.ieee.org/document/9862930) by Muhammad Liman Gambo and Anazida Zainal.*
+    <small>
 
 
 
