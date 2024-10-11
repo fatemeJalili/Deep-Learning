@@ -69,7 +69,10 @@ This repository contains the code and documentation for the Neural Networks cour
 - Part 2: Implemented **CNN + 2 layer LSTM** model for predicting suisaidal thoughts through twitter datas \
   <small>
   *This project implements the methodology described in [Stacked CNN - LSTM approach for prediction of suicidal ideation on social media](https://link.springer.com/article/10.1007/s11042-023-14431-z) by Bhavini Priyamvada and Shruti Singhal*
-  <small> 
+  <small>
+
+   <img src="https://github.com/user-attachments/assets/c68fa56e-88ff-4ccd-8e02-e9818f093f86" width="600"> 
+
 ---
 
 ### Contributions
