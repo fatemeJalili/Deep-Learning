@@ -13,8 +13,9 @@ This repository contains the code and documentation for the Neural Networks cour
   </div>
 
 - Part 2: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm \
-  \
+  <small>
   *This project implements the methodology described in [DAC: Deep Autoencoder-based Clustering, a General Deep Learning Framework of Representation Learning](https://arxiv.org/abs/2102.07472) by Si Lu and Ruisi Li*
+  <small>
   
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="450">
