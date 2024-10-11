@@ -34,7 +34,18 @@ This repository contains the code and documentation for the Neural Networks cour
 
 ## Homework 2
 - Part 1: Conducted a comparative analysis between the **AlexNet** and **VGGNet** architectures for  an Eight-class Emotion Classification system, Incorporated techniques such as **Data Augmentation** and **Fine Tuning** to enhance performance.
-- Developed t CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification
+  *This project implements the methodology described in [CNN-based Facial Affect Analysis on Mobile Devices](https://arxiv.org/abs/1807.08775) by Charlie Hewitt and Hatice Gunes*
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/3c4b314a-f841-4b63-ad49-b66709d2da74" width="300">
+    <img src="https://github.com/user-attachments/assets/0e151b62-0217-4022-81c1-a3b2b4455f6a" width="300">
+  </div>
+
+- Part 2: Developed t CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification
+
+  <img src="https://github.com/user-attachments/assets/c20e2124-37ca-447e-b632-094fa88517ce" width="500">
+  <img src="https://github.com/user-attachments/assets/0c0aedab-d7c1-4918-bfb9-f0d7414c563b" width="300">
+
+
 ---
 
 ### Contributions
