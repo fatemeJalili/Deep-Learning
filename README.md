@@ -119,6 +119,12 @@ This repository contains the code and documentation for the Neural Networks cour
 *This project implements the methodology described in [A Convolutional Neural Network Model for Credit Card Fraud Detection](https://ieeexplore.ieee.org/document/9862930) by Muhammad Liman Gambo and Anazida Zainal.*
   <small>
 
+---
+
+### Contributions
+
+- [Fateme Jalili](https://github.com/fatemeJalili)
+- [Salar Safardoust](https://github.com/salar-sfd)
 
 
 
