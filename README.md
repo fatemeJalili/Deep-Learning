@@ -26,10 +26,12 @@ This repository contains the code and documentation for the Neural Networks cour
 
 
 - Part C: **Knowledge distillation** from the **teacher to the student network** by feeding saved logits to the student network
-- 
+  
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/ab53ef02-7982-4bae-88b0-5aab77b76651" width="300">
+    <img src="https://github.com/user-attachments/assets/ab53ef02-7982-4bae-88b0-5aab77b76651" width="350">
   </div>
+
+## Homework 2
 
 ---
 
