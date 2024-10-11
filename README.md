@@ -55,7 +55,7 @@ This repository contains the code and documentation for the Neural Networks cour
 ## Homework 3
 - Part 1: Fine-tuning the **SAM model** for **semantic segmentation** on waterbody satellite images by **freezing** the image encoder and prompt encoder parts \
   <small>
-  *This project implements the methodology described in [Segment Anything]([https://onlinelibrary.wiley.com/doi/10.1155/2021/6621607](https://arxiv.org/pdf/2304.02643.pdf)) by Alexander Kirillov and Eric Mintun*
+  *This project implements the methodology described in [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) by Alexander Kirillov and Eric Mintun*
   <small>
 
   <img src="https://github.com/user-attachments/assets/31d95f04-1df2-4fff-b677-b435656452ae" width="750"> \
