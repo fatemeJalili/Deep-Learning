@@ -12,7 +12,7 @@ Part A: Implemented and trained **Adaline** and **Madaline** networks on a moon-
   <img src="https://github.com/user-attachments/assets/e0fec43f-8fb9-44a8-a823-7f0aaeaff5a1" width="250">
 </div>
 
-<\br>
+<br>
 Part B: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm
 \
 <img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="450">
