@@ -20,10 +20,10 @@ This repository contains the code and documentation for the Neural Networks cour
     <img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="450">
   </div>
 
-  Results based on the Adjusted Rand Index (ARI):
-  ARI for ordinary train: 0.361
-  ARI for ordinary test: 0.366
-  ARI for encoded train: 0.462
+  Results based on the Adjusted Rand Index (ARI): \
+  ARI for ordinary train: 0.361 \
+  ARI for ordinary test: 0.366 \
+  ARI for encoded train: 0.462 \
   ARI for encoded test: 0.468
 
 
