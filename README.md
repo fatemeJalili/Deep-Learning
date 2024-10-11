@@ -87,13 +87,25 @@ This repository contains the code and documentation for the Neural Networks cour
   <small>
   
    <img src="https://github.com/user-attachments/assets/6d850fba-93a4-4b73-98f7-e5e66f919377" width="400"> 
----
 
-### Contributions
+## Homework 6
+- Part 1: Implemented Control VAE model
+  <small>
+  *This project implements the methodology described in [ControlVAE: Controllable Variational Autoencoder](https://arxiv.org/abs/2004.05988) by Huajie Shao and Shuochao Yao.*
+  <small>
 
-This laboratory project was completed by:
+  <img src="https://github.com/user-attachments/assets/f33180ba-1e0a-4f47-a171-d25c631ae648" width="350"> 
 
-- [Salar Safardoust](https://github.com/salar-sfd)
-- [Fateme Jalili](https://github.com/fatemeJalili)
+- Part 2: Implemented **GAN**, **Wasserstein GAN** and **self-supervised GAN** models on MINST data set.
+  <small>
+  *This project implements the methodology described in [Wasserstein GAN]([https://arxiv.org/abs/2004.05988](https://arxiv.org/abs/1701.07875)) by Martin Arjovsky and Soumith Chintala and [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/abs/1811.11212) by Ting Chen and Xiaohua Zhai.*
+  <small>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/19385315-1562-461d-bb32-1fb2b49eb93d="250">
+    <img src="https://github.com/user-attachments/assets/e1d97141-0976-4f32-8685-39d78e007a55" width="250">
+    <img src="https://github.com/user-attachments/assets/175ee70c-1d5c-48bf-b0aa-fd0508b71bf8" width="250">
+  </div>
+
+
 
 
