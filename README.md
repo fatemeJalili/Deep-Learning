@@ -11,8 +11,7 @@ This repository contains the code and documentation for the Neural Networks cour
     <img src="https://github.com/user-attachments/assets/2ba4384e-2a9d-4407-8258-83f264157ea2" width="250">
     <img src="https://github.com/user-attachments/assets/e0fec43f-8fb9-44a8-a823-7f0aaeaff5a1" width="250">
   </div>
-
-<br>
+\
 
 - Part B: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm
   
