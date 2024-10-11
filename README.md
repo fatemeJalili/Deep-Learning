@@ -2,9 +2,9 @@
 
 This repository contains the code and documentation for the Neural Networks course homework assignments. Each folder represents a specific paper implementation. Below is a list of Homeworks along with a brief description of their contents.
 
-### Homework 1
+## Homework 1
 
-- Part A: Implemented and trained **Adaline** and **Madaline** networks on a moon-shaped dataset
+- Part 1: Implemented and trained **Adaline** and **Madaline** networks on a moon-shaped dataset
 
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/85d6e45a-31c2-4008-a5b1-823528f70329" width="250">
@@ -12,7 +12,8 @@ This repository contains the code and documentation for the Neural Networks cour
     <img src="https://github.com/user-attachments/assets/e0fec43f-8fb9-44a8-a823-7f0aaeaff5a1" width="250">
   </div>
 
-- Part B: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm
+- Part 2: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm
+  *This project implements the methodology described in [DAC: Deep Autoencoder-based Clustering, a General Deep Learning Framework of Representation Learning](https://arxiv.org/abs/2102.07472) by Si Lu and Ruisi Li*
   
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="450">
@@ -25,14 +26,15 @@ This repository contains the code and documentation for the Neural Networks cour
   ARI for encoded test: 0.468
 
 
-- Part C: **Knowledge distillation** from the **teacher to the student network** by feeding saved logits to the student network
+- Part 3: **Knowledge distillation** from the **teacher to the student network** by feeding saved logits to the student network
   
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/ab53ef02-7982-4bae-88b0-5aab77b76651" width="350">
   </div>
 
 ## Homework 2
-
+- Part 1: Conducted a comparative analysis between the **AlexNet** and **VGGNet** architectures for  an Eight-class Emotion Classification system, Incorporated techniques such as **Data Augmentation** and **Fine Tuning** to enhance performance.
+- Developed t CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification
 ---
 
 ### Contributions
