@@ -42,7 +42,7 @@ This repository contains the code and documentation for the Neural Networks cour
   *This project implements the methodology described in [An Efficient CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification](https://onlinelibrary.wiley.com/doi/10.1155/2021/6621607) by Aijaz Ahmad Reshi and Furqan Rustam*
   <small>
 
-  <img src="https://github.com/user-attachments/assets/c20e2124-37ca-447e-b632-094fa88517ce" width="750"> \
+  <img src="https://github.com/user-attachments/assets/c20e2124-37ca-447e-b632-094fa88517ce" width="600"> \
   <img src="https://github.com/user-attachments/assets/0c0aedab-d7c1-4918-bfb9-f0d7414c563b" width="300">
 
 ## Homework 3
