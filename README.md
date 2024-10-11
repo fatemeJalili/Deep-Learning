@@ -12,9 +12,8 @@ Part A: Implemnting and training **Adaline** and **Madaline** networks on **Iris
 </div>
 
 Part B: Implemnting deep autoencoder for decreaze of data dimentions
-<img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="300">
+<img src="https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060" width="600">
 
-![image](https://github.com/user-attachments/assets/80fdd936-bdef-4f95-afa1-b9fe65c91060)
 
 Knowledge distribution from teacher to student network by feding saved logits to student newtwork
 
