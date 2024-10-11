@@ -59,14 +59,24 @@ This repository contains the code and documentation for the Neural Networks cour
   <small>
 
   <img src="https://github.com/user-attachments/assets/73586f4c-d77b-44bd-8677-b88ab7293aa7" width="400">
-- Part 2: Implemented the **Faster R-CNN** model to detect fire and draw bounding boxes
+- Part 2: Implemented the **Faster R-CNN** model to detect fire and draw bounding boxes \
   <small>
-  *This project implements the methodology described in [Analysis of Object Detection Performance Based on Faster R-CNN]([https://arxiv.org/pdf/2304.02643.pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1827/1/012085/meta)) by Wenze Li*
+  *This project implements the methodology described in [Analysis of Object Detection Performance Based on Faster R-CNN](https://iopscience.iop.org/article/10.1088/1742-6596/1827/1/012085/meta) by Wenze Li*
   <small>
   
    <img src="https://github.com/user-attachments/assets/e84a1b80-6293-4739-8567-c35d0c4a0556" width="700"> \
    <img src="https://github.com/user-attachments/assets/42e5a134-ee1a-4bc7-bc74-3b2bf6dd76f5" width="500"> 
 
+## Homework 4
+- Part 1: Predicting the future value of a stock using different architectures, such as **RNN, LSTM, GRU**, and **Conv-LSTM** \
+  <small>
+  *This project implements the methodology described in [The Performance of LSTM and BiLSTM in Forecasting Time Series](https://ieeexplore.ieee.org/document/9005997) by Sima Siami-Namini and Neda Tavakoli*
+  <small>
+  
+- Part 2: Implemented **CNN + 2 layer LSTM** model for predicting suisaidal thoughts through twitter datas \
+  <small>
+  *This project implements the methodology described in [Stacked CNN - LSTM approach for prediction of suicidal ideation on social media](https://link.springer.com/article/10.1007/s11042-023-14431-z) by Bhavini Priyamvada and Shruti Singhal*
+  <small> 
 ---
 
 ### Contributions
