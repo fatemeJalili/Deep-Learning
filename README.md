@@ -59,6 +59,13 @@ This repository contains the code and documentation for the Neural Networks cour
   <small>
 
   <img src="https://github.com/user-attachments/assets/73586f4c-d77b-44bd-8677-b88ab7293aa7" width="400">
+- Part 2: Implemented the **Faster R-CNN** model to detect fire and draw bounding boxes
+  <small>
+  *This project implements the methodology described in [Analysis of Object Detection Performance Based on Faster R-CNN]([https://arxiv.org/pdf/2304.02643.pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1827/1/012085/meta)) by Wenze Li*
+  <small>
+  
+  <img src="https://github.com/user-attachments/assets/b5ef8edc-6030-47c6-b2b2-327c5d7db591" width="750"> \
+  <img src="https://github.com/user-attachments/assets/e84a1b80-6293-4739-8567-c35d0c4a0556" width="500">
 
 ---
 
