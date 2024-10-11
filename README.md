@@ -8,10 +8,9 @@ This repository contains the code and documentation for the Neural Networks cour
 
 Part A: Implemnting and training **Adaline** and **Madaline** networks on **Iris dataset**
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/85d6e45a-31c2-4008-a5b1-823528f70329" width="400" height="250">
-  <img src="https://github.com/user-attachments/assets/2ba4384e-2a9d-4407-8258-83f264157ea2" width="400" height="250">
+  <img src="https://github.com/user-attachments/assets/85d6e45a-31c2-4008-a5b1-823528f70329" width="300">
+  <img src="https://github.com/user-attachments/assets/2ba4384e-2a9d-4407-8258-83f264157ea2" width="300">
 </div>
-  ![image](https://github.com/user-attachments/assets/85d6e45a-31c2-4008-a5b1-823528f70329)
 
 - implemnting deep autoencoder for decreaze of data dimentions
 - Knowledge distribution from teacher to student network by feding saved logits to student newtwork
