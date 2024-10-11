@@ -58,8 +58,8 @@ This repository contains the code and documentation for the Neural Networks cour
   *This project implements the methodology described in [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) by Alexander Kirillov and Eric Mintun*
   <small>
 
-  <img src="https://github.com/user-attachments/assets/31d95f04-1df2-4fff-b677-b435656452ae" width="750"> \
-  <img src="https://github.com/user-attachments/assets/73586f4c-d77b-44bd-8677-b88ab7293aa7" width="500">
+  <img src="https://github.com/user-attachments/assets/bf37e4a0-ee49-4cd2-8f9c-56c4a9f603a7" width="600"> \
+  <img src="https://github.com/user-attachments/assets/73586f4c-d77b-44bd-8677-b88ab7293aa7" width="400">
 
 ---
 
