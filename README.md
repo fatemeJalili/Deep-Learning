@@ -64,8 +64,8 @@ This repository contains the code and documentation for the Neural Networks cour
   *This project implements the methodology described in [Analysis of Object Detection Performance Based on Faster R-CNN](https://iopscience.iop.org/article/10.1088/1742-6596/1827/1/012085/meta) by Wenze Li*
   <small>
   
-   <img src="https://github.com/user-attachments/assets/e84a1b80-6293-4739-8567-c35d0c4a0556" width="700"> \
-   <img src="https://github.com/user-attachments/assets/42e5a134-ee1a-4bc7-bc74-3b2bf6dd76f5" width="500"> 
+   <img src="https://github.com/user-attachments/assets/e84a1b80-6293-4739-8567-c35d0c4a0556" width="500"> \
+   <img src="https://github.com/user-attachments/assets/42e5a134-ee1a-4bc7-bc74-3b2bf6dd76f5" width="350"> 
 
 ## Homework 4
 - Part 1: Predicting the future value of a stock using different architectures, such as **RNN, LSTM, GRU**, and **Conv-LSTM** \
