@@ -89,7 +89,7 @@ This repository contains the code and documentation for the Neural Networks cour
    <img src="https://github.com/user-attachments/assets/6d850fba-93a4-4b73-98f7-e5e66f919377" width="400"> 
 
 ## Homework 6
-- Part 1: Implemented Control VAE model
+- Part 1: Implemented Control VAE model. \
   <small>
   *This project implements the methodology described in [ControlVAE: Controllable Variational Autoencoder](https://arxiv.org/abs/2004.05988) by Huajie Shao and Shuochao Yao.*
   <small>
