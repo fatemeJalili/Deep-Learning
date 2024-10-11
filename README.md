@@ -13,6 +13,7 @@ This repository contains the code and documentation for the Neural Networks cour
   </div>
 
 - Part 2: Implemented a **Deep Autoencoder** to reduce data dimensions before **clustering** using the **k-means** algorithm \
+  \
   *This project implements the methodology described in [DAC: Deep Autoencoder-based Clustering, a General Deep Learning Framework of Representation Learning](https://arxiv.org/abs/2102.07472) by Si Lu and Ruisi Li*
   
   <div style="display: flex; justify-content: space-between;">
@@ -34,6 +35,7 @@ This repository contains the code and documentation for the Neural Networks cour
 
 ## Homework 2
 - Part 1: Conducted a comparative analysis between the **AlexNet** and **VGGNet** architectures for  an Eight-class Emotion Classification system, Incorporated techniques such as **Data Augmentation** and **Fine Tuning** to enhance performance. \
+  \
   *This project implements the methodology described in [CNN-based Facial Affect Analysis on Mobile Devices](https://arxiv.org/abs/1807.08775) by Charlie Hewitt and Hatice Gunes*
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/3c4b314a-f841-4b63-ad49-b66709d2da74" width="300">
@@ -41,9 +43,10 @@ This repository contains the code and documentation for the Neural Networks cour
   </div>
 
 - Part 2: Developed t CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification \
+  \
   *This project implements the methodology described in [An Efficient CNN Model for COVID-19 Disease Detection Based on X-Ray Image Classification](https://onlinelibrary.wiley.com/doi/10.1155/2021/6621607) by Aijaz Ahmad Reshi and Furqan Rustam*
 
-  <img src="https://github.com/user-attachments/assets/c20e2124-37ca-447e-b632-094fa88517ce" width="600"> \
+  <img src="https://github.com/user-attachments/assets/c20e2124-37ca-447e-b632-094fa88517ce" width="750"> \
   <img src="https://github.com/user-attachments/assets/0c0aedab-d7c1-4918-bfb9-f0d7414c563b" width="300">
 
 
