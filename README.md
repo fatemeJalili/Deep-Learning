@@ -96,7 +96,7 @@ This repository contains the code and documentation for the Neural Networks cour
 
   <img src="https://github.com/user-attachments/assets/f33180ba-1e0a-4f47-a171-d25c631ae648" width="350"> 
 
-- Part 2: Implemented **GAN**, **Wasserstein GAN** and **self-supervised GAN** models on MINST data set.
+- Part 2: Implemented **GAN**, **Wasserstein GAN** and **self-supervised GAN** models on MINST data set. \
   <small>
   *This project implements the methodology described in [Wasserstein GAN](https://arxiv.org/abs/1701.07875) by Martin Arjovsky and Soumith Chintala and [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/abs/1811.11212) by Ting Chen and Xiaohua Zhai.*
   <small>
@@ -105,6 +105,14 @@ This repository contains the code and documentation for the Neural Networks cour
     <img src="https://github.com/user-attachments/assets/e1d97141-0976-4f32-8685-39d78e007a55" width="250">
     <img src="https://github.com/user-attachments/assets/175ee70c-1d5c-48bf-b0aa-fd0508b71bf8" width="250">
   </div>
+
+  ## Homework 7:
+  - Part 1: Fine-tuned the **RoBERTa** model using **Low-Rank Adaptation (LoRA)** of **large language models**.
+    <small>
+  *This project implements the methodology described in [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) by HEdward J. Hu and Yelong Shen.*
+    <small>
+
+    <img src="https://github.com/user-attachments/assets/2d6a3a4a-56ef-4956-9506-82631a9c08b8" width="400"> 
 
 
 
