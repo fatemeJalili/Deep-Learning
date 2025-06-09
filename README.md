@@ -1,4 +1,4 @@
-# Deep-Learning
+# Neural Networks
 
 This repository contains the code and documentation for the Neural Networks course homework assignments. Each folder represents a specific paper implementation. Below is a list of Homeworks along with a brief description of their contents.
 
