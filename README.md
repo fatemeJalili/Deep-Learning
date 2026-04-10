@@ -112,7 +112,7 @@ As part of the course, I prepared and delivered a seminar presentation titled **
 
 The presentation was based on the following papers:
 - Cammerer et al., [**Graph Neural Networks for Channel Decoding**](https://arxiv.org/abs/2207.14742), arXiv 2022
-- Tasdigh & Yousefi, [**Adaptive Learned Belief Propagation Decoding for Error-Correcting Codes**](https://arxiv.org/abs/2507.19741), arXiv 2025
+- Tasdigh & Yousefi, [**Adaptive Learned Belief Propagation Decoding for Error-Correcting Codes**](https://arxiv.org/abs/2507.19941), arXiv 2025
 - Lian et al., [**Learned Belief-Propagation Decoding with Simple Scaling and SNR Adaptation**](https://arxiv.org/abs/1901.08621), ICASSP 2019
 - Gruber et al., [**On Deep Learning-Based Channel Decoding**](https://ieeexplore.ieee.org/document/7920792), CISS 2017
 
