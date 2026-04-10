@@ -105,15 +105,25 @@ The dilated CNN achieves the best performance-complexity trade-off, reaching per
 
 ---
 
+
 ## Presentation
 
-As part of the course, I read and presented the paper [**Neural Networks for Decoding Error-Correcting Codes in Data Communications**](https://ieeexplore.ieee.org/). The presentation covers how neural networks can be used to learn decoding algorithms over Tanner graphs, replacing or augmenting classical belief propagation. Topics covered:
+As part of the course, I prepared and delivered a seminar presentation titled **"Neural Networks for Decoding Error-Correcting Codes in Data Communications"** (Prof. Yousefi, Deep Learning — MICAS 913, February 11, 2026).
 
-- **System model & LLRs**: Linear block codes, BPSK over AWGN, channel log-likelihood ratios.
-- **Baseline decoding**: Standard Belief Propagation (BP) and Min-Sum algorithm on the Tanner graph.
-- **Neural decoders**: Model-agnostic (MLP, CNN, RNN, Autoencoder, Transformer, GNN) and model-based (unrolled BP with trainable weights).
-- **Weighted Belief Propagation (WBP) / Weighted Min-Sum (WMS)**: Introduced per-edge learnable weights $\gamma_{v,c}^{(t)}$ and $\beta_{c,v}^{(t)}$ with parameter sharing schemes (Type Ta, TaVC, TbVC).
-- **Learned BP**: Tanner graph unrolled into an RNN with iteration-dependent weights trained end-to-end.
-- **Adaptive Learned BP**: Weights adapted per received word — parallel WMS decoder running $\nu$ candidates and selecting the best by syndrome weight; two-stage decoder replacing the search with a lightweight CNN predictor.
-- **GNN decoder**: Replaced BP message-passing rules with trainable MLP functions on the bipartite Tanner graph, achieving near-BP performance with fewer iterations.
+The presentation was based on the following papers:
+- Cammerer et al., [**Graph Neural Networks for Channel Decoding**](https://arxiv.org/abs/2207.14742), arXiv 2022
+- Tasdigh & Yousefi, [**Adaptive Learned Belief Propagation Decoding for Error-Correcting Codes**](https://arxiv.org/abs/2507.19741), arXiv 2025
+- Lian et al., [**Learned Belief-Propagation Decoding with Simple Scaling and SNR Adaptation**](https://arxiv.org/abs/1901.08621), ICASSP 2019
+- Gruber et al., [**On Deep Learning-Based Channel Decoding**](https://ieeexplore.ieee.org/document/7920792), CISS 2017
+
+Topics covered:
+
+- **System model & LLRs**: Linear block codes, parity-check matrix, BPSK over AWGN, channel log-likelihood ratios.
+- **Baseline decoding**: Standard Belief Propagation (BP) and Min-Sum algorithm on the Tanner graph (sum-product and min-sum check update rules).
+- **Neural decoders**: Model-agnostic architectures (MLP, CNN, RNN, Autoencoders, Transformers, GNNs) and model-based approaches (unrolled BP / min-sum with trainable weights).
+- **Weighted Belief Propagation (WBP) / Weighted Min-Sum (WMS)**: Per-edge learnable weights $\gamma_{v,c}^{(t)}$ and $\beta_{c,v}^{(t)}$; parameter sharing schemes (Type Ta, TaVC, TbVC) trading off flexibility and parameter count.
+- **Learned BP**: Tanner graph unrolled into an RNN with iteration-specific trainable weights, trained end-to-end via back-propagation.
+- **Adaptive Learned BP**: Weights adapted per received word — parallel WMS decoder running $\nu$ candidate weight vectors and selecting the best by syndrome weight; two-stage decoder replacing online search with a lightweight CNN predictor trained with quantile loss.
+- **GNN decoder**: BP update rules replaced by trainable MLP functions on the bipartite Tanner graph (variable-node and factor-node MLPs with bipartite message passing), achieving strong BER performance on the (63,45) BCH code with fewer iterations than standard BP.
+
 <img src="https://github.com/user-attachments/assets/e306daee-a334-496e-9dc6-0e9b8cd7b898" height="350">
