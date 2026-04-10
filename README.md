@@ -13,12 +13,12 @@ The project implements deep learning for a point-to-point optical fiber transmis
 
 - Labeled constellation points using **Gray coding**, ensuring adjacent symbols differ by only one bit.
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q3_gray_mapping" height="220">
+  <img src="https://github.com/user-attachments/assets/02c39683-b92a-4d37-96d1-893dfa6419bd" height="220">
 
 - Implemented a **bit-to-symbol mapper** partitioning the bit stream into groups of $\log_2 M$ bits.
 - Constructed the transmitted waveform using both **sinc** and **Root-Raised-Cosine (RRC)** pulse shaping, and plotted the signal in time and frequency domains.
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q7_sinc" height="250">
+  <img src="https://github.com/user-attachments/assets/25b435ff-979a-455d-86e0-ec4ee627fdf5" height="250">
 
 #### 1.2 Channel Model
 
@@ -32,20 +32,20 @@ The project implements deep learning for a point-to-point optical fiber transmis
 
 - Implemented **frequency-domain equalization** by inverting the dispersive phase response $\hat{h}^{-1}(\omega, L) = e^{-j\omega^2 L}$, and validated on a noiseless Gaussian test signal (residual error $\approx 10^{-15}$).
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q17_equalization" height="220">
+  <img src="https://github.com/user-attachments/assets/7c194947-b135-44d2-9aa4-4b2ed9b1f08e" height="220">
 
 - Demonstrated **inter-symbol interference (ISI)** from dispersion using a two-pulse experiment, confirming that linear equalization perfectly cancels ISI in the noise-free regime.
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q21_isi" height="250">
+  <img src="https://github.com/user-attachments/assets/713f1cbb-0379-4032-8792-47079391bf96" height="250">
 
 - Verified the complete communication chain with zero noise (symbol error = 0) for both sinc and RRC pulse shapes.
 - Plotted **BER and SER vs. SNR** for 16-QAM over the implemented fiber channel, for both sinc and RRC pulse shapes, showing the expected monotonic decrease in error rate.
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q22_ber_ser" height="280">
+  <img src="https://github.com/user-attachments/assets/6644084f-e218-42e4-b2a8-15de7db82981" height="280">
 
 - Plotted the **transmitter/receiver constellation clouds** at representative SNR, confirming tighter symbol clusters at higher SNR.
 
-  <img src="PASTE_GITHUB_URL_FOR_fig_q22_const_sinc" height="230">
+  <img src="https://github.com/user-attachments/assets/3dc27cd6-8184-4d71-9188-0e3ea5652e5d" height="230">
 
 ---
 
@@ -78,15 +78,16 @@ Both networks were trained with **MSE loss**, Adam optimizer, learning-rate redu
 **Training curves** for both architectures and pulse shapes:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="PASTE_GITHUB_URL_FOR_fig_nn_sinc_training" height="220">
-  <img src="PASTE_GITHUB_URL_FOR_fig_nn_rrc_training" height="220">
+  <img src="https://github.com/user-attachments/assets/81f2c29f-bb4b-417c-8a8a-1216367f4f74" height="220">
+
+  <img src="https://github.com/user-attachments/assets/e10dec79-915b-4ba3-9af2-d19bfae952c2" height="220">
 </div>
 
 **Constellation clouds** before and after neural equalization (SINC / RRC):
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="PASTE_GITHUB_URL_FOR_fig_nn_sinc_constellation" height="220">
-  <img src="PASTE_GITHUB_URL_FOR_fig_nn_rrc_constellation" height="220">
+  <img src="https://github.com/user-attachments/assets/3abae9af-fdef-408c-9284-e2d73e5aba23" height="220">
+  <img src="https://github.com/user-attachments/assets/38e0d175-ee96-4e9a-a33d-381df488dbe9" height="220">
 </div>
 
 **Final comparison** (at SNR = 35 dB, 16-QAM, $L = 1000$ km):
