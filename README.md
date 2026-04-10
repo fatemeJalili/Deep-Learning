@@ -8,8 +8,8 @@ The project implements deep learning for a point-to-point optical fiber transmis
 
 - Implemented a **Bernoulli binary source** with i.i.d. bits at probability $p = 1/2$.
 - Generated and normalized a square **16-QAM constellation** with unit average symbol energy.
-
-  <img src="PASTE_GITHUB_URL_FOR_fig_q2_constellation" height="220">
+  
+  <img src="https://github.com/user-attachments/assets/fba69e95-e0d5-45f7-acf4-b6cda9ef76a2" height="220">
 
 - Labeled constellation points using **Gray coding**, ensuring adjacent symbols differ by only one bit.
 
