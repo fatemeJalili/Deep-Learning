@@ -116,5 +116,4 @@ As part of the course, I read and presented the paper [**Neural Networks for Dec
 - **Learned BP**: Tanner graph unrolled into an RNN with iteration-dependent weights trained end-to-end.
 - **Adaptive Learned BP**: Weights adapted per received word — parallel WMS decoder running $\nu$ candidates and selecting the best by syndrome weight; two-stage decoder replacing the search with a lightweight CNN predictor.
 - **GNN decoder**: Replaced BP message-passing rules with trainable MLP functions on the bipartite Tanner graph, achieving near-BP performance with fewer iterations.
-
-<img src="PASTE_GITHUB_URL_FOR_presentation_slide" height="350">
+<img src="https://github.com/user-attachments/assets/e306daee-a334-496e-9dc6-0e9b8cd7b898" height="350">
